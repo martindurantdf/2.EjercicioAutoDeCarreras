@@ -1,2 +1,2 @@
-# EjercicioAutoDeCarreras
+# EjercicioDescuento
 Created with CodeSandbox
